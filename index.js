@@ -11,7 +11,7 @@ let newID = oldID + 1000000000;
 // currentAgeIsInteger
 let ageIsValid;
 
-ageIsValid= Number.isInteger(currentAgeIsInteger.floor());
+ageIsValid= Number.isInteger(currentAge.floor(currentAgeIsInteger));
   
   
 
