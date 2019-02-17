@@ -13,6 +13,8 @@ let ageIsValid = Number.isInteger(currentAge);
 
 let randomNumber = Math.floor((Math.random() + 1));
 
-let randomInteger = 
+let randomInteger = Math.floor((Math.random() + 1));
+
+
   
 
