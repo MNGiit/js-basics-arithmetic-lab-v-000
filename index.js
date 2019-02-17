@@ -13,11 +13,9 @@ let ageIsValid;
 
 if currentAge.floor() >= 21
   ageIsValid = true;
-  else
+else
   ageIsValid = false;
-  end
+end
+  
   
 
-
-
-= currentAge.floor();
