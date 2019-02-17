@@ -11,6 +11,12 @@ let newID = oldID + 1000000000;
 
 let ageIsValid; 
 
+if currentAge.floor() >= 21
+  ageIsValid = true;
+  else
+  ageIsValid = false;
+  end
+  
 
 
 
